@@ -68,7 +68,12 @@
       <br>
       <b>Bash</b>
     </td>
-</table>
+     <td align="center" width="96">
+      <img alt="JasperSoft Studio" src="https://d7umqicpi7263.cloudfront.net/img/product/41a2b8af-4e81-4903-8ca0-ba34a14f0d77/778623ba-89ee-4ffe-9a40-7187ebc269b9.png"/>
+      <br>
+      <b>JasperSoft Studio</b>
+    </td>
+</table.>
 
 #### ***Environments:***
 
