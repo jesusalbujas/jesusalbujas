@@ -13,24 +13,6 @@
 <div align="left">
     <h3>🔨 Languages and Tools:</h3>
 
-
-#### ***Front-End:***
-
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img alt="TypeScript" width="48" height="48" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/typescript/typescript-plain.svg">
-      <br>TypeScript
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img alt="TypeScript" width="48" height="48" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/vuejs/vuejs-original.svg">
-      <br>Vue
-    </td>
-  </tr>
-</table>
-
 #### ***Databases:***
 
 <table>
