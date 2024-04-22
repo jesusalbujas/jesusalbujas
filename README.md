@@ -57,7 +57,7 @@
       <br>
       <b>JasperSoft Studio</b>
     </td>
-</table.>
+</table>
 
 ---
 
