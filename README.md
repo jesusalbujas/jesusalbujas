@@ -4,7 +4,7 @@
     <h3 align="center">🌱 In Continuous Learning.</h3>
 </div>
 
-- 🌱 I’m currently learning [Java](https://www.java.com/), [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript), [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) and [CSS](https://developer.mozilla.org/es/docs/Web/CSS)
+- 🌱 I’m currently learning [Java](https://www.java.com/)
 ---
 
 ### 👨‍💻 About Me :
