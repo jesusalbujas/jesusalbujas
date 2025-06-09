@@ -2,18 +2,18 @@
   <img alt="Night Coding" src="https://raw.githubusercontent.com/jesusalbujas/jesusalbujas/master/resources/Night-Coding.gif"/>
 </p>
 
-<img alt="Night Coding" src="./resources/blob-sunglasses.gif" width='40' align="left"/><h2>Hey there! I'm Jesús</h2>
+<img alt="Night Coding" src="./resources/blob-sunglasses.gif" width='40' align="left"/><h2>Hᴇʏ ᴛʜᴇʀᴇ! I'ᴍ Jᴇsᴜ́s</h2>
 
 ---
 
-### 👨🏻‍💻 &nbsp;About Me
+### 👨🏻‍💻 &nbsp;Aʙᴏᴜᴛ Mᴇ
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I have a TSU degree in computing and am currently working toward my Engineering degree.\
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
 ✍️ &nbsp; In my free time, I dedicate myself to learning new technologies, developing my university project, and creating automations.
 
-### 🛠 &nbsp;Tech Stack
+### 🛠 &nbsp;Tᴇᴄʜ sᴛᴀᴄᴋ
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)&nbsp;
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)&nbsp;
@@ -22,6 +22,7 @@
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)&nbsp;
 ![Discord.js](https://img.shields.io/badge/Discord.js-7289DA?style=flat&logo=discord&logoColor=white)&nbsp;
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)&nbsp;
+![VuePress Theme Hope](https://img.shields.io/badge/VuePress%20Theme%20Hope-3078E6?style=flat&logo=vue.js&logoColor=white)&nbsp;
 
 #### &nbsp;Databases, Backend & Data Analytics
 
