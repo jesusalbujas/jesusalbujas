@@ -21,6 +21,7 @@
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)&nbsp;
 ![Discord.js](https://img.shields.io/badge/Discord.js-7289DA?style=flat&logo=discord&logoColor=white)&nbsp;
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)&nbsp;
 
 #### &nbsp;Databases, Backend & Data Analytics
 
@@ -35,6 +36,8 @@
 * **Contenerization & Orchestration:**
     ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)&nbsp;
     ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)&nbsp;
+    ![Portainer](https://img.shields.io/badge/Portainer-18B5EA?style=flat&logo=portainer&logoColor=white)&nbsp;
+    ![Docker Compose](https://img.shields.io/badge/Docker%20Compose-2496ED?style=flat&logo=docker&logoColor=white)&nbsp;
     * **Web Servers & Networking:**
     ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)&nbsp;
     ![Nginx Proxy Manager](https://img.shields.io/badge/Nginx%20Proxy%20Manager-22C55E?style=flat&logo=nginxproxymanager&logoColor=white)&nbsp;
@@ -51,6 +54,8 @@
     ![n8n](https://img.shields.io/badge/n8n-000000?style=flat&logo=n8n&logoColor=white)&nbsp;
     ![Telegram Bots](https://img.shields.io/badge/Telegram%20Bots-26A5E4?style=flat&logo=telegram&logoColor=white)&nbsp;
     ![Amazon S3](https://img.shields.io/badge/Amazon%20S3-569A31?style=flat&logo=amazon-s3&logoColor=white)&nbsp;
+    ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat&logo=gradle&logoColor=white)&nbsp;
+    ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)&nbsp;
     * **IDEs & Code Editors:**
     ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)&nbsp;
     ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipse&logoColor=white)&nbsp;
