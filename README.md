@@ -2,7 +2,7 @@
   <img alt="Night Coding" src="https://raw.githubusercontent.com/jesusalbujas/jesusalbujas/master/resources/Night-Coding.gif"/>
 </p>
 
-<img alt="Night Coding" src="./resources/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Jesús</h2>
+<img alt="Night Coding" src="./resources/blob-sunglasses.gif" width='40' align="left"/><h2>Hey there! I'm Jesús</h2>
 
 ---
 
@@ -69,3 +69,8 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jesusalbujas&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
+<h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
+<div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=jesusalbujas&bg_color=0D1117&color=ADD8E6&line=00BFFF&point=87CEEB&area=true&hide_border=false" border-radius="15">
+</div>
