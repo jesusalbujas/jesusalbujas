@@ -1,100 +1,71 @@
-<div id="header" align="center">
-    <img src="https://media.giphy.com/media/QZkpIdieotn3i/giphy.gif" width="200" />
-    <h1 align="center">Hi 👋, I'm Jesus</h1>
-    <h3 align="center">🌱 In Continuous Learning.</h3>
-</div>
+<p align="center">
+  <img alt="Night Coding" src="https://raw.githubusercontent.com/jesusalbujas/jesusalbujas/master/resources/Night-Coding.gif"/>
+</p>
 
-- 🌱 I’m currently learning [Java](https://www.java.com/)
----
-
-### 👨‍💻 About Me :
-
-- 📝 I am a computer engineering student.
-
-<div align="left">
-    <h3>🔨 Languages and Tools:</h3>
-
-#### ***Databases:***
-
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img alt="PostgreSQL" width="48" height="48" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/postgresql/postgresql-original.svg"/>
-      <br>PostgreSQL
-    </td>
-  </tr>
-</table>
+<img alt="Night Coding" src="./resources/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Jesús</h2>
 
 ---
 
-#### ***DevOps:***
+### 👨🏻‍💻 &nbsp;About Me
 
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img alt="Docker" width="48" height="48" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/docker/docker-original.svg">
-      <br>Docker
-    </td>
-    <td align="center" width="96">
-      <img alt="Nginx" width="48" height="48" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/nginx/nginx-original.svg"/>
-      <br>Nginx
-    </td>
-    <td align="center" width="96">
-      <img alt="linux" width="48" height="48" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/linux/linux-original.svg"/>
-      <br>Linux
-    </td>
-  <tr>
-    <td align="center" width="96">
-      <img alt="Shell" width="48" height="48" src="https://www.vectorlogo.zone/logos/shell/shell-icon.svg"/>
-      <br>Shell
-    </td>
-    <td align="center" width="96">
-      <img alt="Bash" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/bash/bash-original.svg"/>
-      <br>
-      <b>Bash</b>
-    </td>
-     <td align="center" width="96">
-      <img alt="JasperSoft Studio" src="https://d7umqicpi7263.cloudfront.net/img/product/41a2b8af-4e81-4903-8ca0-ba34a14f0d77/778623ba-89ee-4ffe-9a40-7187ebc269b9.png"/>
-      <br>
-      <b>JasperSoft Studio</b>
-    </td>
-</table>
+💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
+🎓 &nbsp;I have a TSU degree in computing and am currently working toward my Engineering degree.\
+🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
+✍️ &nbsp; In my free time, I dedicate myself to learning new technologies, developing my university project, and creating automations.
 
----
+### 🛠 &nbsp;Tech Stack
 
-#### ***Environments:***
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)&nbsp;
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)&nbsp;
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)&nbsp;
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)&nbsp;
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)&nbsp;
+![Discord.js](https://img.shields.io/badge/Discord.js-7289DA?style=flat&logo=discord&logoColor=white)&nbsp;
 
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img alt="Git" width="48" height="48" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/git/git-original.svg"/>
-      <br>Git
-    </td>
-    <td align="center" width="96">
-      <img alt="GitHub" width="48" height="48" src="https://www.vectorlogo.zone/logos/github/github-tile.svg"/>
-      <br>GitHub
-    </td>
-    <td align="center" width="96">
-      <img alt="GitLab" width="48" height="48" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg"/>
-      <br>GitLab
-    </td>
-  <tr>
-    <td align="center" width="96">
-      <img alt="npm" width="48" height="48" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg"/>
-      <br>npm
-    </td>
-    <td align="center" width="96">
-      <img alt="Visual Studio Code" width="48" height="48" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg">
-      <br>Vs Code
-    </td>
-</table>
+#### &nbsp;Databases, Backend & Data Analytics
 
----
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white&style=flat)&nbsp;
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=flat)&nbsp;
+![Appwrite](https://img.shields.io/badge/Appwrite-FD366E?logo=appwrite&logoColor=white&style=flat)&nbsp;
+![JasperSoft](https://img.shields.io/badge/JasperSoft-0D47A1?style=flat&logo=jaspersoft&logoColor=white)&nbsp;
+![Apache Superset](https://img.shields.io/badge/Apache%20Superset-20A4F4?style=flat&logo=apache-superset&logoColor=white)&nbsp;
 
-### 📊 My Stats :
+#### &nbsp;DevOps & Cloud Technologies
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jesusalbujas&theme=github-dark-blue&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+* **Contenerization & Orchestration:**
+    ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)&nbsp;
+    ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)&nbsp;
+    * **Web Servers & Networking:**
+    ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)&nbsp;
+    ![Nginx Proxy Manager](https://img.shields.io/badge/Nginx%20Proxy%20Manager-22C55E?style=flat&logo=nginxproxymanager&logoColor=white)&nbsp;
+    * **Version Control & Collaboration:**
+    ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)&nbsp;
+    ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)&nbsp;
+    ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white)&nbsp;
+    * **Operating Systems & Scripting:**
+    ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)&nbsp;
+    ![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat&logo=windows&logoColor=white)&nbsp;
+    ![Bash](https://img.shields.io/badge/Bash-121011?style=flat&logo=gnubash&logoColor=white)&nbsp;
+    * **Automation and Workflows:**
+    ![Rundeck](https://img.shields.io/badge/Rundeck-F56434?style=flat&logo=rundeck&logoColor=white)&nbsp;
+    ![n8n](https://img.shields.io/badge/n8n-000000?style=flat&logo=n8n&logoColor=white)&nbsp;
+    ![Telegram Bots](https://img.shields.io/badge/Telegram%20Bots-26A5E4?style=flat&logo=telegram&logoColor=white)&nbsp;
+    ![Amazon S3](https://img.shields.io/badge/Amazon%20S3-569A31?style=flat&logo=amazon-s3&logoColor=white)&nbsp;
+    * **IDEs & Code Editors:**
+    ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)&nbsp;
+    ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipse&logoColor=white)&nbsp;
+    ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)&nbsp;
+    ![cURL](https://img.shields.io/badge/cURL-000000?style=flat&logo=curl&logoColor=white)&nbsp;
+    * **Graphic Design Software:**
+    ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white)&nbsp;
+    ---
 
-![jAlbujas GitHub stats](https://github-readme-stats.vercel.app/api?username=jesusalbujas&show_icons=true&theme=transparent)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jesusalbujas&layout=donut&theme=dark)
+### 📊&nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/jesusalbujas">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jesusalbujas&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jesusalbujas&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
