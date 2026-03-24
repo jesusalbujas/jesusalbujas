@@ -1,5 +1,5 @@
 <div align="right">
-  <a href="README-es.md">🇻🇪 Leer en Español</a> | <b>🇺🇸 Read in English</b>
+  <b>🇻🇪 Leer en Español</b> | <a href="README.md">🇺🇸 Read in English</a>
 </div>
 
 <div align="center">
@@ -7,37 +7,37 @@
 
   <br><br>
 
-  <h1>Épale, I'm Jesús Albujas <img src="https://raw.githubusercontent.com/jesusalbujas/jesusalbujas/master/resources/blob-sunglasses.gif" width="35px"></h1>
+  <h1>¡Épale!, Soy Jesús Albujas <img src="https://raw.githubusercontent.com/jesusalbujas/jesusalbujas/master/resources/blob-sunglasses.gif" width="35px"></h1>
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1000&color=2088FF&center=true&vCenter=true&width=600&lines=Software+Engineer;ERP+%26+ADempiere+Specialist;Backend+%26+System+Integration;Open+Source+Contributor)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1000&color=2088FF&center=true&vCenter=true&width=600&lines=Ingeniero+de+Software;Especialista+en+ERP+y+ADempiere;Arquitecturas+Backend+y+Cloud;Contribuidor+Open+Source)](https://git.io/typing-svg)
 
   <p align="center">
-    <b>Building scalable enterprise solutions, modern web apps, and intelligent automations.</b>
+    <b>Construyendo soluciones empresariales escalables, web apps modernas y automatizaciones inteligentes.</b>
   </p>
 
   <p align="center">
-    <a href="http://erpya.com/"><img src="https://img.shields.io/badge/Company_Website-000000?style=for-the-badge&logo=Web&logoColor=white" /></a>
+    <a href="http://erpya.com/"><img src="https://img.shields.io/badge/Sitio_Web-000000?style=for-the-badge&logo=Web&logoColor=white" /></a>
     <a href="https://github.com/jesusalbujas"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   </p>
 </div>
 
 ---
 
-### 👨🏻‍💻 About Me
+### 👨🏻‍💻 Sobre Mí
 
-- 💼 Currently working as a **Software Engineer** at [ERP Consultores y Asociados, C.A.](http://erpya.com/)
-- ⚙️ Deep expertise in **ADempiere ERP** (Java-based), ranging from system localization, UI modernization (ZK Framework), to custom integration tools.
-- 🎓 I hold a degree in Computing (TSU) and I'm currently advancing towards my **Engineering Degree**.
-- 🚀 Exploring and building solutions involving **Microservices (Spring Boot APIs, RPC), Data Analytics (Superset), and Open Source architectures**.
-- 🖥️ Solid background in **Server Infrastructure**, managing deployments, web servers (Nginx), and containerized architectures on Linux environments.
-- 🌱 Always learning more about **Artificial Intelligence, System Design, and Cloud Architecture (Kubernetes, Docker)**.
-- 💡 *"If you can imagine it, you can code it."* 🧑‍💻 
+- 💼 Actualmente trabajando como **Ingeniero de Software** en [ERP Consultores y Asociados, C.A.](http://erpya.com/)
+- ⚙️ Experiencia profunda en **ADempiere ERP** (Basado en Java), abarcando desde localización de sistemas, modernización de interfaz (Framework ZK), hasta herramientas de integración personalizadas.
+- 🎓 Tengo un título de TSU en Informática y actualmente estoy avanzando hacia mi grado de **Ingeniería**.
+- 🚀 Explorando y construyendo soluciones que involucran **Microservicios (APIs de Spring Boot, RPC), Analítica de Datos (Superset) y arquitecturas Open Source**.
+- 🖥️ Sólida base en **Infraestructura de Servidores**, gestionando despliegues, servidores web (Nginx) y arquitecturas con contenedores en entornos Linux.
+- 🌱 Siempre aprendiendo más sobre **Inteligencia Artificial, Diseño de Sistemas y Arquitectura Cloud (Kubernetes, Docker)**.
+- 💡 *"Si puedes imaginarlo, puedes programarlo."* 🧑‍💻 
 
 ---
 
-### 🛠 Tech Stack
+### 🛠 Stack Tecnológico
 
-#### 💻 Architecture & Languages
+#### 💻 Arquitectura y Lenguajes
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -47,7 +47,7 @@
   <img src="https://img.shields.io/badge/Shell-121011?style=for-the-badge&logo=gnubash&logoColor=white" />
 </p>
 
-#### 🎨 Frontend & ⚙️ Backend
+#### 🎨 Frontend y ⚙️ Backend
 <p>
   <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -58,7 +58,7 @@
   <img src="https://img.shields.io/badge/Discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
 </p>
 
-#### 🗄 Databases & 📊 Analytics
+#### 🗄 Bases de Datos y 📊 Analítica
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
@@ -66,7 +66,7 @@
   <img src="https://img.shields.io/badge/JasperSoft-0D47A1?style=for-the-badge&logo=java&logoColor=white" />
 </p>
 
-#### ☁ DevOps & 🔄 Automation
+#### ☁ DevOps y 🔄 Automatización
 <p>
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
@@ -77,7 +77,7 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
-#### 🛠️ Tools & Environments
+#### 🛠️ Herramientas y Entornos
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" />
@@ -90,15 +90,15 @@
 ---
 
 
-### 📊 GitHub Analytics
+### 📊 Estadísticas de GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jesusalbujas&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesusalbujas&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jesusalbujas&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&locale=es" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesusalbujas&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&locale=es" width="48%" />
 </div>
 
 <br>
 
 <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=jesusalbujas&bg_color=1a1b27&color=7aa2f7&line=7dcfff&point=bb9af7&area=true&hide_border=true" width="100%">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=jesusalbujas&bg_color=1a1b27&color=7aa2f7&line=7dcfff&point=bb9af7&area=true&hide_border=true&locale=es" width="100%">
 </div>
