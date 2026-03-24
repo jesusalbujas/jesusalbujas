@@ -30,7 +30,8 @@
 - 🎓 Tengo un título de TSU en Informática y actualmente estoy avanzando hacia mi grado de **Ingeniería**.
 - 🚀 Explorando y construyendo soluciones que involucran **Microservicios (APIs de Spring Boot, RPC), Analítica de Datos (Superset) y arquitecturas Open Source**.
 - 🖥️ Sólida base en **Infraestructura de Servidores**, gestionando despliegues, servidores web (Nginx) y arquitecturas con contenedores en entornos Linux.
-- 🌱 Siempre aprendiendo más sobre **Inteligencia Artificial, Diseño de Sistemas y Arquitectura Cloud (Kubernetes, Docker)**.
+- 🤖 Experiencia integrando y dominando herramientas de **Inteligencia Artificial** para potenciar el desarrollo y crear soluciones inteligentes.
+- 🌱 Siempre aprendiendo más sobre **Diseño de Sistemas y Arquitectura Cloud (Kubernetes, Docker)**.
 - 💡 *"Si puedes imaginarlo, puedes programarlo."* 🧑‍💻 
 
 ---

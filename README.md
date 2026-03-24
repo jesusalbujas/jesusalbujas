@@ -30,7 +30,8 @@
 - 🎓 I hold a degree in Computing (TSU) and I'm currently advancing towards my **Engineering Degree**.
 - 🚀 Exploring and building solutions involving **Microservices (Spring Boot APIs, RPC), Data Analytics (Superset), and Open Source architectures**.
 - 🖥️ Solid background in **Server Infrastructure**, managing deployments, web servers (Nginx), and containerized architectures on Linux environments.
-- 🌱 Always learning more about **Artificial Intelligence, System Design, and Cloud Architecture (Kubernetes, Docker)**.
+- 🤖 Experienced in integrating and mastering **Artificial Intelligence** tools to enhance development and build smart solutions.
+- 🌱 Always learning more about **System Design and Cloud Architecture (Kubernetes, Docker)**.
 - 💡 *"If you can imagine it, you can code it."* 🧑‍💻 
 
 ---
